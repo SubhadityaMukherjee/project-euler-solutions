@@ -22,4 +22,4 @@ for i in range(100,ran+1):
 
 print(temp)
 
-print(ispalin(9009))
+# 906609

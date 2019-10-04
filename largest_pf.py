@@ -11,3 +11,5 @@ for i in range(int(math.sqrt(600851475143)),1,-1):
         if(flag!=True):
             print(i)
             break
+
+# 6857

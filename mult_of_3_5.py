@@ -8,3 +8,5 @@ for i in range(1,1000):
         s+=i
 
 print(s)
+
+# 233168
